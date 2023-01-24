@@ -18,6 +18,7 @@ Scan With Your Device!
 
 
 
-![Thumbnail for Game](https://user-images.githubusercontent.com/119703173/214366479-11fe4216-0e50-40b2-9c76-e6cb377081fa.png)
+
+![Thumbnail for Game 2](https://user-images.githubusercontent.com/119703173/214366545-517e9cc9-03e5-4cbc-a6cd-9598f78d0d99.png)
 
 
