@@ -5,6 +5,7 @@ Mega Man's Epic Moonrun is my version ofthe popular "Dino Run" Genre of games. Y
 
 Controls :
    Computer : Up and Down arrow keys or W/S Keys
+   Mobile: Press the Top of the Screen to Jump, Press the Bottom of the Screen to Duck
 
 
 Direct Link to Play:
