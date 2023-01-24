@@ -17,4 +17,5 @@ Scan With Your Device!
 
 
 
-![Gameplay](https://user-images.githubusercontent.com/119703173/214364920-0bc5b2d8-3818-4cf2-870b-3ab926d83086.png)
+
+![Gameplay](https://user-images.githubusercontent.com/119703173/214366215-ab30db5a-007e-42a2-a767-f616c7b590c7.png)
