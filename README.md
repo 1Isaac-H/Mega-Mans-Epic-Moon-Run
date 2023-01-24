@@ -11,3 +11,4 @@ Direct Link to Play:
 https://liluo.io/isaach/megamanrun
 
 
+![QR Code](https://user-images.githubusercontent.com/119703173/214364835-2d71acb2-0937-4e92-a988-f2108d744c10.png)
