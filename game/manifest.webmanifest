@@ -1,0 +1,12 @@
+{
+  "name": "Mega Man's Epic Moon Run",
+  "short_name": "Mega Man's Epic Moon Run",
+  "id": "com.example.rundinorun",
+  "description": "Remixed Version of the popular \"Dino Run\" Genre of Games!\n\nControls :\n   Computer : Up and Down arrow keys or W/S Keys\n   \n",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
